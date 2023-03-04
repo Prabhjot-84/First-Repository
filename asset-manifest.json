@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Prabhjot-84.github.io/urTracker/static/css/main.b4cfbd9b.css",
+    "main.js": "/Prabhjot-84.github.io/urTracker/static/js/main.83a5d073.js",
+    "static/js/787.65c3985b.chunk.js": "/Prabhjot-84.github.io/urTracker/static/js/787.65c3985b.chunk.js",
+    "static/media/logo.svg": "/Prabhjot-84.github.io/urTracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Prabhjot-84.github.io/urTracker/index.html",
+    "main.b4cfbd9b.css.map": "/Prabhjot-84.github.io/urTracker/static/css/main.b4cfbd9b.css.map",
+    "main.83a5d073.js.map": "/Prabhjot-84.github.io/urTracker/static/js/main.83a5d073.js.map",
+    "787.65c3985b.chunk.js.map": "/Prabhjot-84.github.io/urTracker/static/js/787.65c3985b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4cfbd9b.css",
+    "static/js/main.83a5d073.js"
+  ]
+}
